@@ -6,3 +6,5 @@ On the third Day I drawed on the endboos, implemented the endboss and tried to c
 
 On the fourth Day I made the Enemy Movement and tried to work on small bugs.
 
+ON the fifth day i painted the starting Screen and implemented the Starting screen and the End Screen.
+
