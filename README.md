@@ -1,17 +1,15 @@
-# 🎮 **Game Title** 
+# 🎮 **Pig Invaders** 
 
-> **Short Pitch**: A brief and catchy description of your game. Highlight the concept, genre, and key features.
-> 
-> *Example:* "Explore an alien planet in this retro-inspired platformer where gravity is your greatest ally—or enemy!"
+> "Defend the galaxy from an oinking invasion in Pig Invaders! This fast-paced arcade shooter puts you in the cockpit as you battle waves of spacefaring pigs and dodge raining projectiles. Can you save the universe from total Pig domination?"
 
 ---
 
-## 🌐 **Play the Game**
+## 🌐 **Play Pig Invaders now**
 [Click here to play the game!](https://your-github-username.github.io/repository-name)
 
 ---
 
-## 📸 **Screenshots**
+## 📸 **About the Game**
 
 ### Main Gameplay:
 <div style="text-align: center;">
@@ -21,7 +19,7 @@
 
 ---
 
-### Menu and UI:
+### Menu:
 <div style="text-align: center;">
   <img src="menu.PNG" alt="Menu UI Screenshot" width="600">
   <p>*Figure 2: Menu and user interface.*</p>
@@ -40,7 +38,7 @@ Below are the sprites used to create characters and objects in the game:
 
 ---
 
-### Enemies and NPCs:
+### Enemies:
 <div style="text-align: center;">
   <img src="enemysheet.PNG" alt="Enemy Spritesheet" width="500">
   <p>*Figure 4: Enemy animations.*</p>
