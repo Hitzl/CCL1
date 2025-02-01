@@ -19,6 +19,20 @@
 
 ---
 
+### Levels:
+<div style="text-align: center;">
+  <img src="Level1.PNG" alt="Gameplay Screenshot" width="600">
+  <img src="Level2.PNG" alt="Gameplay Screenshot" width="600">
+  <img src="Level3.PNG" alt="Gameplay Screenshot" width="600">
+  <img src="Level4.PNG" alt="Gameplay Screenshot" width="600">
+  <img src="Level5.PNG" alt="Gameplay Screenshot" width="600">
+  <img src="Level6.PNG" alt="Gameplay Screenshot" width="600">
+  <img src="Bossfight_phase1.PNG" alt="Gameplay Screenshot" width="600">
+  <img src="Bossfight_phase2.PNG" alt="Gameplay Screenshot" width="600">
+</div>
+
+---
+
 ### Menu:
 <div style="text-align: center;">
   <img src="menu.PNG" alt="Menu UI Screenshot" width="600">
