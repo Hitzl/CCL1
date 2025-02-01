@@ -46,16 +46,16 @@ Below are the sprites used to create characters and objects in the game:
 
 ---
 
-## ✍️ **Reflection**
+## ✍️ **Reflection**  
 
-### What went well:
-- **Creative Design:** The theme and style came together seamlessly, and the sprites were fun to design.
-- **Core Mechanics:** The gravity-based gameplay worked better than expected and provided a unique challenge.
+### What Went Well:  
+- **Drawings:** Creating the artwork took a long time, but I’m really happy with how it turned out.  
+- **Boss Movement:** I successfully implemented a second phase for the boss fight, which added more depth to the gameplay.  
 
-### Challenges:
-- **Time Constraints:** Implementing all the features we envisioned wasn’t possible due to the limited timeframe.
-- **Bug Fixes:** Handling collisions and edge cases for gravity mechanics was tricky.
+### Challenges:  
+- **Implementing Spritesheets:** Getting the spritesheets to work properly was tough, as they caused performance issues. I was only able to fix it with some help.  
+- **Drawings:** Doing all the artwork myself was challenging since I had no prior experience with drawing or digital art.  
 
-### Lessons Learned:
-- **Prototyping Matters:** Testing early prototypes helped refine the core mechanics quickly.
-- **Keep it Simple:** Focusing on one unique mechanic instead of multiple features made the game more polished.
+### Lessons Learned:  
+- **Managing Expectations:** I initially wanted to add a lot more details and features, but I realized that implementing them was much harder than expected.  
+- **Drawing Skills:** I learned how to use digital drawing tools to create cool visuals, which was a valuable skill to pick up.
