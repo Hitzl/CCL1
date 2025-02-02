@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Pig Invaders</title>
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <meta name="description" content="" />
+  <link rel="stylesheet" type="text/css" href="./css/style.css" />
+  <link rel="icon" href="favicon.png">
+  <link href="https://fonts.googleapis.com/css2?family=Bangers&display=swap" rel="stylesheet">
+  
+</head>
+<body>
+  <!-- further HTML elements, that should maybe be displayed above your game. E.g. Healtbar, .... -->
+  <!-- <div id="healthDisplay">Health:</div> -->
+  <div id="gameContainer">
+    <!-- further HTML elements, that should be behind your game. e.g. Background image, .... -->
+    <div id="startScreen">
+      <div>
+        <h1 id="headline">Pig <br> Invaders</h1>
+      </div>
+
+      <div>
+        <button id="startButton">
+          <span id="buttonText">Start Journey</span>
+        </button>
+        <!--<h3>Info</h3> -->
+
+      </div>
+    </div>
+
+    <canvas id="canvas" width="1100" height="800"></canvas> <!-- change the size attributes of your canvas according to your game -->
+    <!-- further HTML elements, that should overlay your game. e.g. Main Screen, Game Over screen, .... -->
+    <!-- <div id="gameOverScreen"></div> -->
+    <!-- <div id="mainScreen"></div> -->
+  </div>
+  <!-- further HTML elements, that should maybe be displayed below your game. E.g. Score, .... -->
+  <!-- <div id="scoreDisplay">Score: </div> -->
+  <!--
+  <footer>  
+    <div id="healthDisplay">     <div id="health1"></div>    <div id="health2"></div>    <div id="health3"></div>    </div>
+  </footer>
+  -->
+  <script type="module" src="./scripts/modules/global.js"></script>
+  <script type="module" src="./scripts/modules/input.js"></script>
+  <script type="module" src="./scripts/modules/main.js"></script>
+  
+</body>
+</html>
