@@ -4,11 +4,6 @@
 
 ---
 
-## 🌐 **Play Pig Invaders now**
-[Click here to play the game!](https://your-github-username.github.io/repository-name)
-
----
-
 ## 📸 **About the Game**
 
 ### Main Gameplay:
